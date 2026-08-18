@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Q01",
+    "question": "How is hypertension confirmed using ambulatory blood pressure monitoring?",
+    "topic": "Diagnosis / ABPM",
+    "expected_sources": ["HTN-NG136"],
+    "expected_sections": ["1.2 Diagnosing hypertension"]
+  },
+  {
+    "id": "Q02",
+    "question": "How should home blood pressure monitoring be performed to confirm hypertension?",
+    "topic": "Diagnosis / HBPM",
+    "expected_sources": ["HTN-NG136"],
+    "expected_sections": ["1.2 Diagnosing hypertension"]
+  },
+  {
+    "id": "Q03",
+    "question": "What investigations should be offered to people with hypertension for target organ damage?",
+    "topic": "Target organ damage",
+    "expected_sources": ["HTN-NG136"],
+    "expected_sections": ["1.3 Assessing cardiovascular risk and target organ damage"]
+  },
+  {
+    "id": "Q04",
+    "question": "What lifestyle changes can help lower blood pressure?",
+    "topic": "Lifestyle management",
+    "expected_sources": ["HTN-PDA-2019"],
+    "expected_sections": ["What are my options?"]
+  },
+  {
+    "id": "Q05",
+    "question": "What are common side effects of ACE inhibitors?",
+    "topic": "Medication side effects",
+    "expected_sources": ["HTN-PDA-2019"],
+    "expected_sections": ["What are some of the common side effects?"]
+  },
+  {
+    "id": "Q06",
+    "question": "What blood tests are needed when starting an ACE inhibitor or ARB?",
+    "topic": "Medication monitoring",
+    "expected_sources": ["HTN-PDA-2019", "HTN-NG136"],
+    "expected_sections": ["Will I need blood tests?", "1.4 Treating and monitoring hypertension"]
+  },
+  {
+    "id": "Q07",
+    "question": "What are the types of medicines used to control high blood pressure?",
+    "topic": "Medication options",
+    "expected_sources": ["HTN-PDA-2019"],
+    "expected_sections": ["What are the types of medicine and what are they called?"]
+  },
+  {
+    "id": "Q08",
+    "question": "What should happen if clinic blood pressure is 180/120 mmHg or higher?",
+    "topic": "Severe hypertension / referral",
+    "expected_sources": ["HTN-NG136"],
+    "expected_sections": ["1.5 Identifying who to refer for same-day specialist review"]
+  }
+]

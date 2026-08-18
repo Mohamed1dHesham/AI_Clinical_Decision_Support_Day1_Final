@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Clinical Decision Support Lite</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <header class="hero">
+      <div>
+        <div class="eyebrow">AI Clinical Decision Support Lite</div>
+        <h1>Adult Hypertension Assistant</h1>
+        <p class="subtitle">Ask a question and receive a grounded answer from the supplied NICE hypertension documents.</p>
+      </div>
+      <div class="scope-badge">Scope: Adult Hypertension</div>
+    </header>
+
+    <section class="notice">
+      <strong>Educational use only.</strong>
+      This prototype retrieves evidence from the project knowledge base and uses Groq to summarize that evidence. It is not a diagnosis or a substitute for professional clinical judgment.
+    </section>
+
+    <section class="card question-card">
+      <label for="question">Clinical question</label>
+      <textarea id="question" rows="4" placeholder="e.g. What lifestyle changes can help lower blood pressure?"></textarea>
+      <div class="controls">
+        <button id="askButton">Ask Assistant</button>
+        <span id="status" class="status"></span>
+      </div>
+      <div class="examples">
+        <span>Try one:</span>
+        <button class="example">How is hypertension confirmed using ambulatory blood pressure monitoring?</button>
+        <button class="example">What lifestyle changes can help lower blood pressure?</button>
+        <button class="example">What are common side effects of ACE inhibitors?</button>
+      </div>
+    </section>
+
+    <section id="answerSection" class="card answer-card hidden">
+      <div class="section-title-row">
+        <h2>Answer</h2>
+        <span id="modelBadge" class="model-badge"></span>
+      </div>
+      <div id="answer" class="answer"></div>
+    </section>
+
+    <section id="evidenceSection" class="card hidden">
+      <div class="section-title-row">
+        <h2>Retrieved Evidence</h2>
+        <span class="muted">Traceable source context</span>
+      </div>
+      <div id="evidence"></div>
+    </section>
+
+    <footer>
+      <span>Clinical RAG Day 1 → Retrieval + Grounded Generation UI</span>
+      <span id="health">Checking backend…</span>
+    </footer>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

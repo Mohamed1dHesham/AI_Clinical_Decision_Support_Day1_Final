@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+.pytest_cache/
+*.log
+all_project_code.txt
+gather_code.py

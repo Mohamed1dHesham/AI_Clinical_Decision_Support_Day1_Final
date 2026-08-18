@@ -1,0 +1,684 @@
+{
+  "summary": {
+    "questions": 8,
+    "top_k": 4,
+    "source_hit_rate": 1.0,
+    "section_hit_rate": 0.875
+  },
+  "questions": [
+    {
+      "question_id": "Q01",
+      "question": "How is hypertension confirmed using ambulatory blood pressure monitoring?",
+      "topic": "Diagnosis / ABPM",
+      "expected_sources": [
+        "HTN-NG136"
+      ],
+      "expected_sections": [
+        "1.2 Diagnosing hypertension"
+      ],
+      "expected_evidence": [],
+      "source_hit_at_k": true,
+      "section_hit_at_k": true,
+      "results": [
+        {
+          "rank": 1,
+          "similarity": 0.8310755491256714,
+          "metadata": {
+            "chunk_id": "HTN-NG136-P008-S_12DIAGNO-C044-9f56de3c",
+            "publisher": "National Institute for Health and Care Excellence",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "section": "1.2 Diagnosing hypertension",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "page_number": 8,
+            "publication_date": "2019-08-28",
+            "last_updated": "2026-02-26",
+            "document_id": "HTN-NG136",
+            "source": "NICE"
+          }
+        },
+        {
+          "rank": 2,
+          "similarity": 0.8121166229248047,
+          "metadata": {
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "chunk_id": "HTN-NG136-P008-S_12DIAGNO-C043-8a558d82",
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "page_number": 8,
+            "publisher": "National Institute for Health and Care Excellence",
+            "document_id": "HTN-NG136",
+            "last_updated": "2026-02-26",
+            "section": "1.2 Diagnosing hypertension",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "source": "NICE"
+          }
+        },
+        {
+          "rank": 3,
+          "similarity": 0.8117929697036743,
+          "metadata": {
+            "last_updated": "2026-02-26",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "section": "1.2 Diagnosing hypertension",
+            "publication_date": "2019-08-28",
+            "publisher": "National Institute for Health and Care Excellence",
+            "document_id": "HTN-NG136",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "source": "NICE",
+            "page_number": 7,
+            "chunk_id": "HTN-NG136-P007-S_12DIAGNO-C042-ec04ce0a"
+          }
+        },
+        {
+          "rank": 4,
+          "similarity": 0.8101271390914917,
+          "metadata": {
+            "publisher": "National Institute for Health and Care Excellence",
+            "publication_date": "2019-08-28",
+            "last_updated": "2026-02-26",
+            "page_number": 7,
+            "chunk_id": "HTN-NG136-P007-S_12DIAGNO-C041-3086cd82",
+            "source": "NICE",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "section": "1.2 Diagnosing hypertension",
+            "document_id": "HTN-NG136",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)"
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q02",
+      "question": "How should home blood pressure monitoring be performed to confirm hypertension?",
+      "topic": "Diagnosis / HBPM",
+      "expected_sources": [
+        "HTN-NG136"
+      ],
+      "expected_sections": [
+        "1.2 Diagnosing hypertension"
+      ],
+      "expected_evidence": [],
+      "source_hit_at_k": true,
+      "section_hit_at_k": true,
+      "results": [
+        {
+          "rank": 1,
+          "similarity": 0.8083388805389404,
+          "metadata": {
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "document_id": "HTN-NG136",
+            "section": "1.2 Diagnosing hypertension",
+            "page_number": 8,
+            "chunk_id": "HTN-NG136-P008-S_12DIAGNO-C044-9f56de3c",
+            "source": "NICE",
+            "publication_date": "2019-08-28",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "publisher": "National Institute for Health and Care Excellence",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "last_updated": "2026-02-26"
+          }
+        },
+        {
+          "rank": 2,
+          "similarity": 0.8048559427261353,
+          "metadata": {
+            "publisher": "National Institute for Health and Care Excellence",
+            "document_id": "HTN-NG136",
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "source": "NICE",
+            "chunk_id": "HTN-NG136-P006-S_11MEASUR-C037-c4b269e0",
+            "last_updated": "2026-02-26",
+            "page_number": 6,
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "section": "1.1 Measuring blood pressure"
+          }
+        },
+        {
+          "rank": 3,
+          "similarity": 0.8010053634643555,
+          "metadata": {
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "chunk_id": "HTN-NG136-P007-S_12DIAGNO-C042-ec04ce0a",
+            "page_number": 7,
+            "document_id": "HTN-NG136",
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "source": "NICE",
+            "publisher": "National Institute for Health and Care Excellence",
+            "last_updated": "2026-02-26",
+            "section": "1.2 Diagnosing hypertension"
+          }
+        },
+        {
+          "rank": 4,
+          "similarity": 0.7992513179779053,
+          "metadata": {
+            "section": "1.2 Diagnosing hypertension",
+            "last_updated": "2026-02-26",
+            "page_number": 8,
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "source": "NICE",
+            "publisher": "National Institute for Health and Care Excellence",
+            "publication_date": "2019-08-28",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "document_id": "HTN-NG136",
+            "chunk_id": "HTN-NG136-P008-S_12DIAGNO-C043-8a558d82"
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q03",
+      "question": "What investigations should be offered to people with hypertension for target organ damage?",
+      "topic": "Target organ damage",
+      "expected_sources": [
+        "HTN-NG136"
+      ],
+      "expected_sections": [
+        "1.3 Assessing cardiovascular risk and target organ damage"
+      ],
+      "expected_evidence": [],
+      "source_hit_at_k": true,
+      "section_hit_at_k": true,
+      "results": [
+        {
+          "rank": 1,
+          "similarity": 0.8276940584182739,
+          "metadata": {
+            "source": "NICE",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "document_id": "HTN-NG136",
+            "publication_date": "2019-08-28",
+            "last_updated": "2026-02-26",
+            "publisher": "National Institute for Health and Care Excellence",
+            "chunk_id": "HTN-NG136-P008-S_12DIAGNO-C045-8bc70751",
+            "section": "1.2 Diagnosing hypertension",
+            "page_number": 8,
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213"
+          }
+        },
+        {
+          "rank": 2,
+          "similarity": 0.816322386264801,
+          "metadata": {
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "publisher": "National Institute for Health and Care Excellence",
+            "source": "NICE",
+            "section": "1.5 Identifying who to refer for same-day specialist review",
+            "publication_date": "2019-08-28",
+            "document_id": "HTN-NG136",
+            "last_updated": "2026-02-26",
+            "chunk_id": "HTN-NG136-P024-S_15IDENTI-C090-9a8c6457",
+            "page_number": 24
+          }
+        },
+        {
+          "rank": 3,
+          "similarity": 0.7649624943733215,
+          "metadata": {
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "section": "1.2 Diagnosing hypertension",
+            "document_id": "HTN-NG136",
+            "last_updated": "2026-02-26",
+            "publisher": "National Institute for Health and Care Excellence",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "chunk_id": "HTN-NG136-P009-S_12DIAGNO-C047-a3e23973",
+            "publication_date": "2019-08-28",
+            "page_number": 9,
+            "source": "NICE",
+            "version": "Published 2019-08-28; last updated 2026-02-26"
+          }
+        },
+        {
+          "rank": 4,
+          "similarity": 0.7465801239013672,
+          "metadata": {
+            "section": "1.3 Assessing cardiovascular risk and target organ damage",
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "last_updated": "2026-02-26",
+            "document_id": "HTN-NG136",
+            "page_number": 10,
+            "publisher": "National Institute for Health and Care Excellence",
+            "chunk_id": "HTN-NG136-P010-S_13ASSESS-C048-94c8e5d2",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "source": "NICE"
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q04",
+      "question": "What lifestyle changes can help lower blood pressure?",
+      "topic": "Lifestyle management",
+      "expected_sources": [
+        "HTN-PDA-2019"
+      ],
+      "expected_sections": [
+        "What are my options?"
+      ],
+      "expected_evidence": [],
+      "source_hit_at_k": true,
+      "section_hit_at_k": true,
+      "results": [
+        {
+          "rank": 1,
+          "similarity": 0.827701210975647,
+          "metadata": {
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "publisher": "National Institute for Health and Care Excellence",
+            "page_number": 3,
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "document_id": "HTN-PDA-2019",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "source": "NICE",
+            "last_updated": "2019-08",
+            "section": "What are my options?",
+            "publication_date": "2019-08-28",
+            "chunk_id": "HTN-PDA-2019-P003-S_WHATAREM-C007-3d01f964"
+          }
+        },
+        {
+          "rank": 2,
+          "similarity": 0.82408607006073,
+          "metadata": {
+            "publisher": "National Institute for Health and Care Excellence",
+            "source": "NICE",
+            "document_id": "HTN-NG136",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "section": "1.4 Treating and monitoring hypertension",
+            "last_updated": "2026-02-26",
+            "page_number": 11,
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "chunk_id": "HTN-NG136-P011-S_14TREATI-C051-5de79ea8",
+            "publication_date": "2019-08-28"
+          }
+        },
+        {
+          "rank": 3,
+          "similarity": 0.7949045896530151,
+          "metadata": {
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "chunk_id": "HTN-PDA-2019-P004-S_WHATAREM-C009-fb5d2769",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "section": "What are my options?",
+            "publisher": "National Institute for Health and Care Excellence",
+            "page_number": 4,
+            "source": "NICE",
+            "last_updated": "2019-08",
+            "publication_date": "2019-08-28",
+            "document_id": "HTN-PDA-2019"
+          }
+        },
+        {
+          "rank": 4,
+          "similarity": 0.7855813503265381,
+          "metadata": {
+            "source": "NICE",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "chunk_id": "HTN-PDA-2019-P003-S_WHATAREM-C008-cd1d5112",
+            "last_updated": "2019-08",
+            "section": "What are my options?",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "publisher": "National Institute for Health and Care Excellence",
+            "publication_date": "2019-08-28",
+            "page_number": 3,
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "document_id": "HTN-PDA-2019"
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q05",
+      "question": "What are common side effects of ACE inhibitors?",
+      "topic": "Medication side effects",
+      "expected_sources": [
+        "HTN-PDA-2019"
+      ],
+      "expected_sections": [
+        "What are some of the common side effects?"
+      ],
+      "expected_evidence": [],
+      "source_hit_at_k": true,
+      "section_hit_at_k": true,
+      "results": [
+        {
+          "rank": 1,
+          "similarity": 0.8572497367858887,
+          "metadata": {
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "source": "NICE",
+            "document_id": "HTN-PDA-2019",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "section": "What are some of the common side effects?",
+            "chunk_id": "HTN-PDA-2019-P006-S_WHATARES-C015-d4f2fcf9",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "last_updated": "2019-08",
+            "publisher": "National Institute for Health and Care Excellence",
+            "page_number": 6
+          }
+        },
+        {
+          "rank": 2,
+          "similarity": 0.8098944425582886,
+          "metadata": {
+            "page_number": 6,
+            "publication_date": "2019-08-28",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "chunk_id": "HTN-PDA-2019-P006-S_WHATARES-C016-25a56e82",
+            "source": "NICE",
+            "last_updated": "2019-08",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "publisher": "National Institute for Health and Care Excellence",
+            "section": "What are some of the common side effects?",
+            "document_id": "HTN-PDA-2019",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines"
+          }
+        },
+        {
+          "rank": 3,
+          "similarity": 0.7547721862792969,
+          "metadata": {
+            "last_updated": "2019-08",
+            "publication_date": "2019-08-28",
+            "document_id": "HTN-PDA-2019",
+            "publisher": "National Institute for Health and Care Excellence",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "chunk_id": "HTN-PDA-2019-P007-S_WHATARES-C019-84e5f47f",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "source": "NICE",
+            "section": "What are some of the common side effects?",
+            "page_number": 7
+          }
+        },
+        {
+          "rank": 4,
+          "similarity": 0.7222886085510254,
+          "metadata": {
+            "section": "What are the types of medicine and what are they called?",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "publisher": "National Institute for Health and Care Excellence",
+            "last_updated": "2019-08",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "page_number": 6,
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "chunk_id": "HTN-PDA-2019-P006-S_WHATARET-C014-b74c0540",
+            "document_id": "HTN-PDA-2019",
+            "source": "NICE"
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q06",
+      "question": "What blood tests are needed when starting an ACE inhibitor or ARB?",
+      "topic": "Medication monitoring",
+      "expected_sources": [
+        "HTN-PDA-2019",
+        "HTN-NG136"
+      ],
+      "expected_sections": [
+        "Will I need blood tests?",
+        "1.4 Treating and monitoring hypertension"
+      ],
+      "expected_evidence": [],
+      "source_hit_at_k": true,
+      "section_hit_at_k": true,
+      "results": [
+        {
+          "rank": 1,
+          "similarity": 0.7850549817085266,
+          "metadata": {
+            "section": "Will I need blood tests?",
+            "last_updated": "2019-08",
+            "page_number": 8,
+            "chunk_id": "HTN-PDA-2019-P008-S_WILLINEE-C022-739af16c",
+            "document_id": "HTN-PDA-2019",
+            "source": "NICE",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "publisher": "National Institute for Health and Care Excellence",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "publication_date": "2019-08-28"
+          }
+        },
+        {
+          "rank": 2,
+          "similarity": 0.7803453207015991,
+          "metadata": {
+            "document_id": "HTN-PDA-2019",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "publication_date": "2019-08-28",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "source": "NICE",
+            "chunk_id": "HTN-PDA-2019-P006-S_WHATARET-C014-b74c0540",
+            "last_updated": "2019-08",
+            "page_number": 6,
+            "section": "What are the types of medicine and what are they called?",
+            "publisher": "National Institute for Health and Care Excellence",
+            "version": "Published 2019-08-28; PDF last updated August 2019"
+          }
+        },
+        {
+          "rank": 3,
+          "similarity": 0.7779021263122559,
+          "metadata": {
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "source": "NICE",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "chunk_id": "HTN-NG136-P019-S_STEP1TRE-C078-21910fd1",
+            "section": "Step 1 treatment",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "last_updated": "2026-02-26",
+            "publisher": "National Institute for Health and Care Excellence",
+            "document_id": "HTN-NG136",
+            "page_number": 19
+          }
+        },
+        {
+          "rank": 4,
+          "similarity": 0.777448296546936,
+          "metadata": {
+            "section": "What are my options?",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "chunk_id": "HTN-PDA-2019-P005-S_WHATAREM-C011-66f98d41",
+            "last_updated": "2019-08",
+            "publisher": "National Institute for Health and Care Excellence",
+            "page_number": 5,
+            "publication_date": "2019-08-28",
+            "document_id": "HTN-PDA-2019",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "source": "NICE"
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q07",
+      "question": "What are the types of medicines used to control high blood pressure?",
+      "topic": "Medication options",
+      "expected_sources": [
+        "HTN-PDA-2019"
+      ],
+      "expected_sections": [
+        "What are the types of medicine and what are they called?"
+      ],
+      "expected_evidence": [],
+      "source_hit_at_k": true,
+      "section_hit_at_k": true,
+      "results": [
+        {
+          "rank": 1,
+          "similarity": 0.7768588662147522,
+          "metadata": {
+            "page_number": 2,
+            "document_id": "HTN-PDA-2019",
+            "publisher": "National Institute for Health and Care Excellence",
+            "chunk_id": "HTN-PDA-2019-P002-S_WHATAREM-C006-90e034e0",
+            "publication_date": "2019-08-28",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "last_updated": "2019-08",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "source": "NICE",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "section": "What are my options?"
+          }
+        },
+        {
+          "rank": 2,
+          "similarity": 0.7465782165527344,
+          "metadata": {
+            "section": "What are the types of medicine and what are they called?",
+            "source": "NICE",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "last_updated": "2019-08",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "document_id": "HTN-PDA-2019",
+            "publisher": "National Institute for Health and Care Excellence",
+            "page_number": 5,
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; PDF last updated August 2019",
+            "chunk_id": "HTN-PDA-2019-P005-S_WHATARET-C012-f62924d1"
+          }
+        },
+        {
+          "rank": 3,
+          "similarity": 0.7385833263397217,
+          "metadata": {
+            "chunk_id": "HTN-PDA-2019-P001-S_OVERVIEW-C001-b626ff2e",
+            "document_name": "How do I control my blood pressure? Lifestyle options and choice of medicines",
+            "publisher": "National Institute for Health and Care Excellence",
+            "page_number": 1,
+            "section": "Overview",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-patient-decision-aid-pdf-6899918221",
+            "source": "NICE",
+            "last_updated": "2019-08",
+            "document_id": "HTN-PDA-2019",
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; PDF last updated August 2019"
+          }
+        },
+        {
+          "rank": 4,
+          "similarity": 0.7229301929473877,
+          "metadata": {
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "publication_date": "2019-08-28",
+            "page_number": 23,
+            "document_id": "HTN-NG136",
+            "source": "NICE",
+            "chunk_id": "HTN-NG136-P023-S_STEP4TRE-C088-b0fee30c",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "publisher": "National Institute for Health and Care Excellence",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "last_updated": "2026-02-26",
+            "section": "Step 4 treatment"
+          }
+        }
+      ]
+    },
+    {
+      "question_id": "Q08",
+      "question": "What should happen if clinic blood pressure is 180/120 mmHg or higher?",
+      "topic": "Severe hypertension / referral",
+      "expected_sources": [
+        "HTN-NG136"
+      ],
+      "expected_sections": [
+        "1.5 Identifying who to refer for same-day specialist review"
+      ],
+      "expected_evidence": [],
+      "source_hit_at_k": true,
+      "section_hit_at_k": false,
+      "results": [
+        {
+          "rank": 1,
+          "similarity": 0.7797322869300842,
+          "metadata": {
+            "publication_date": "2019-08-28",
+            "page_number": 7,
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "last_updated": "2026-02-26",
+            "section": "1.2 Diagnosing hypertension",
+            "source": "NICE",
+            "document_id": "HTN-NG136",
+            "publisher": "National Institute for Health and Care Excellence",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "chunk_id": "HTN-NG136-P007-S_12DIAGNO-C041-3086cd82",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)"
+          }
+        },
+        {
+          "rank": 2,
+          "similarity": 0.7769451141357422,
+          "metadata": {
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "page_number": 16,
+            "section": "Monitoring treatment and blood pressure targets",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "last_updated": "2026-02-26",
+            "publisher": "National Institute for Health and Care Excellence",
+            "document_id": "HTN-NG136",
+            "chunk_id": "HTN-NG136-P016-S_MONITORI-C067-84c90c51",
+            "source": "NICE",
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; last updated 2026-02-26"
+          }
+        },
+        {
+          "rank": 3,
+          "similarity": 0.7729406356811523,
+          "metadata": {
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "chunk_id": "HTN-NG136-P016-S_MONITORI-C066-2fa42483",
+            "page_number": 16,
+            "section": "Monitoring treatment and blood pressure targets",
+            "source": "NICE",
+            "document_id": "HTN-NG136",
+            "publication_date": "2019-08-28",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "last_updated": "2026-02-26",
+            "publisher": "National Institute for Health and Care Excellence",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213"
+          }
+        },
+        {
+          "rank": 4,
+          "similarity": 0.7697970867156982,
+          "metadata": {
+            "publication_date": "2019-08-28",
+            "publisher": "National Institute for Health and Care Excellence",
+            "last_updated": "2026-02-26",
+            "page_number": 7,
+            "section": "1.2 Diagnosing hypertension",
+            "source_url": "https://www.nice.org.uk/guidance/ng136/resources/hypertension-in-adults-diagnosis-and-managementpdf-66141722710213",
+            "document_name": "Hypertension in adults: diagnosis and management (NG136)",
+            "source": "NICE",
+            "version": "Published 2019-08-28; last updated 2026-02-26",
+            "document_id": "HTN-NG136",
+            "chunk_id": "HTN-NG136-P007-S_12DIAGNO-C042-ec04ce0a"
+          }
+        }
+      ]
+    }
+  ]
+}
