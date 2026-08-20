@@ -1,2 +1,12 @@
+[project]
+name = "ai-clinical-decision-support"
+version = "0.1.0"
+description = "AI Clinical Decision Support System"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+]
+
 [tool.vercel]
 entrypoint = "src.web:app"
